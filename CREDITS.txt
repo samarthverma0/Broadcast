@@ -1,0 +1,36 @@
+# Image Credits
+
+All images courtesy of Unsplash (https://unsplash.com).
+
+- Paulo Simões Mendes (https://unsplash.com/photos/V8YzvXKLwDw)
+- Teddy Kelley (https://unsplash.com/photos/_4Ib-a8g9aA)
+- Rosan Harmens (https://unsplash.com/photos/TLJImI78VRg)
+- Erez Attias (https://unsplash.com/photos/KqVHRmHVwwM)
+- Sergee Bee (https://unsplash.com/photos/bIQiMWxX_WU)
+
+
+
+
+
+
+
+
+
+
+
+color: rgba(255, 255, 255, 0.75);
+text-align: center;
+cursor: default;
+box-sizing: border-box;
+vertical-align: top;
+margin: 0px;
+padding: 0px;
+border-width: 0px;
+border-style: initial;
+border-color: initial;
+border-image: initial;
+font: inherit;
+position: relative;
+z-index: 1;
+transition: opacity 2s ease;
+opacity: 1;
